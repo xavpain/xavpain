@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![Current UTC time](https://jojoee.jojoee.com/api/utcnow?refresh)
+<img src="https://jojoee.jojoee.com/api/utcnow?refresh" width="120" height="20">
 <!--
 **xavpain/xavpain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
